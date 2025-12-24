@@ -1,0 +1,12 @@
+spotipy
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+jupyter
+streamlit
+openai
+requests
+beautifulsoup4
