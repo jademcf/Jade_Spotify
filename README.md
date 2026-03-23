@@ -7,7 +7,7 @@ Once you have these, create a separate python file which lists your client ID, c
 
 With this you can install the requirements file to install the necessary libraries needed through the requirements.txt file.
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 If you woud like to use your personal data follow the Spotify starter pack
