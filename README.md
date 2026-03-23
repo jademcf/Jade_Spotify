@@ -11,3 +11,5 @@ pip install -r requirements.txt
 ```
 
 If you woud like to use your personal data follow the Spotify starter pack
+
+More to be updated ...
